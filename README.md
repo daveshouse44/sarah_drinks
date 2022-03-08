@@ -20,7 +20,7 @@ Contracted website design and hosting for client.
 
 ## Screenshot
 
-![Image of main page application](./src/assets/images/screenshot.png)
+![Image of main page application](/images/sarah_drinks.gif)
 
 ## Contributions
 
