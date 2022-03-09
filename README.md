@@ -44,8 +44,8 @@ html5up.net | @ajlkn
 
 ### Other:
 
-jQuery (jquery.com)
-Responsive Tools (github.com/ajlkn/responsive-tools)
+jQuery (https://jquery.com)
+Responsive Tools (https://github.com/ajlkn/responsive-tools)
 
 ## Questions:
 
